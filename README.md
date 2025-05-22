@@ -20,7 +20,6 @@ This repo is dedicated to improving my problem-solving skills by practicing a wi
 
 ## Platforms I Practice On
 - LeetCode
-- GeeksforGeeks
 - HackerRank
 
 ## Folder Structure (To be updated)
