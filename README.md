@@ -24,3 +24,19 @@ This repo is dedicated to improving my problem-solving skills by practicing a wi
 - HackerRank
 
 ## Folder Structure (To be updated)
+
+
+## Progress Tracker
+| Topic        | Problems Solved |
+|--------------|------------------|
+| Arrays       | 1                |
+| Strings      | 0                |
+| LinkedList   | 0                |
+| Trees        | 0                |
+
+I will be updating this table as I solve more problems.
+
+---
+
+Feel free to clone this structure and customize it as you go. Let me know if you'd like a badge, a contribution graph, or auto-generated stats later.
+
